@@ -1,5 +1,5 @@
 # TaskTracker
-Информация о созданных мною методах для данной работы:
+Информация о созданных мною методах для данной работы: \n
 'public static EventLog CreateLogEntry(EventType logtype, Process process, RunInfo runInfo=null)'
 Данный метод создает экземпляр записи для лог-файла. 
 'public static string GetExceedingParams(RunInfo runInfo, Process proc)'
