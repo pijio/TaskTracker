@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunInfo>
+	<MemoryLimit>209715200</MemoryLimit> <!--эквивалентно 200 мбайт-->
+	<ProcessorTimeLimit>10000</ProcessorTimeLimit> <!--10 сек-->
+	<AbsoluteTimeLimit>10000</AbsoluteTimeLimit> <!--10 сек-->
+</RunInfo>
